@@ -1,9 +1,5 @@
 package org.example.designpatterns.builder;
 
-import org.example.inheritance3.B;
-
-import javax.naming.spi.DirObjectFactory;
-
 public class Student {
     String name;
     int age;

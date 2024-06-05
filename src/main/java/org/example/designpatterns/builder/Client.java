@@ -31,12 +31,11 @@ public class Client {
 //Steps:-
 
 /**
- *
  * 1. getBuilder() static method
  * 2. Make the Builder class static
- * 3. build method in Builder class.
+ * 3. build method in Builder class which returns a Student object
  * 4. Make the setters of Builder class return Builder object.
- *
- *
+ * <p>
+ * <p>
  * Why we made setters return Builder object -> To support Method chaining.
  */
